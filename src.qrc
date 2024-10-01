@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close_icon.svg</file>
+        <file>icons/maximize_icon.svg</file>
+        <file>icons/minimize_icon.svg</file>
+        <file>icons/normal_icon.svg</file>
+        <file>icons/avatar/avatar_1.png</file>
+        <file>icons/avatar/avatar_2.png</file>
+        <file>icons/avatar/avatar_3.png</file>
+        <file>icons/avatar/avatar_4.png</file>
+        <file>icons/avatar/avatar_5.png</file>
+        <file>icons/avatar/avatar_6.png</file>
+    </qresource>
+</RCC>
